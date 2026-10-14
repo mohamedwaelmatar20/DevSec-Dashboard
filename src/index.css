@@ -1,0 +1,7 @@
+:root {
+  --sev-critical: #dc3545;
+  --sev-high: #fd7e14;
+  --sev-medium: #ffc107;
+  --sev-low: #6c9bd1;
+}
+body { min-height: 100vh; }
